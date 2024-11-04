@@ -10,8 +10,4 @@ Meu nome é Letícia Monteiro Kailer
 
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-
-- 
-- ### você entrar em contato comigo 
-- 
-- leticia.kailer@escola.pr.gov.br
+- ### você entrar em contato comigo:  leticia.kailer@escola.pr.gov.br
